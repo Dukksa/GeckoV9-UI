@@ -123,7 +123,7 @@ guiTypes = {
 	eu3dialogtype = {
 		name = "DefaultDialogResizeable"
 		backGround="Background"
-		position = { x=300 y=-750 }
+		position = { x=100 y=-450 }
 		size = { x=500 y=320 }
 		orientation="CENTER"
 		moveable = 1
@@ -303,7 +303,7 @@ guiTypes = {
 	eu3dialogtype = {
 		name = "DefaultInfoDialog"
 		backGround="Background"
-		position = { x=300 y=-750 }
+		position = { x=100 y=-450 }
 		size = { x=500 y=320 }
 		orientation="CENTER"
 		moveable = 0
@@ -368,7 +368,7 @@ guiTypes = {
 	eu3dialogtype = {
 		name = "ShieldedInformationDialog"
 		backGround="Background"
-		position = { x=300 y=-750 }
+		position = { x=100 y=-450 }
 		size = { x=500 y=320 }
 		orientation="CENTER"
 		moveable = 1
@@ -447,7 +447,7 @@ guiTypes = {
 	eu3dialogtype = {
 		name = "DefaultPopup"
 		backGround="Background"
-		position = { x=300 y=-750 }
+		position = { x=100 y=-450 }
 		size = { x=500 y=320 }
 		orientation="CENTER"
 		moveable = 1
@@ -870,7 +870,7 @@ guiTypes = {
 	eu3dialogtype = {
 		name = "NewColonyDialog"
 		backGround="Background"
-		position = { x=300 y=-750 }
+		position = { x=100 y=-450 }
 		size = { x=450 y=280 }
 		orientation="CENTER"
 		moveable = 1
@@ -1411,7 +1411,7 @@ guiTypes = {
 	eu3dialogtype = {
 		name = "NewColonyForeignDialog"
 		backGround="Background"
-		position = { x=300 y=-750 }	
+		position = { x=100 y=-450 }
 		size = { x=450 y=280 }
 		orientation="CENTER"
 		moveable = 1
