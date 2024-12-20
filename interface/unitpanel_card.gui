@@ -122,7 +122,7 @@ guiTypes = {
 				position = { x= 21 y = 8 }
 				quadTextureSprite = "GFX_unit_types_strip_nontransp"
 				scale= 0.6
-				shortcut = "z"
+				shortcut = "alt+z" #was "z"
 				frame = 1
 			}
 			instantTextBoxType = {
@@ -143,7 +143,7 @@ guiTypes = {
 				position = { x= 107 y = 8 }
 				quadTextureSprite = "GFX_unit_types_strip_nontransp"
 				scale= 0.6
-				shortcut = "x"
+				shortcut = "alt+x" #was "x"
 				frame = 2
 			}	
 			instantTextBoxType = {
@@ -164,7 +164,7 @@ guiTypes = {
 				position = { x= 186 y = 9 }
 				quadTextureSprite = "GFX_unit_types_strip_nontransp"
 				scale= 0.6
-				shortcut = "" #### REMOVECKEYBIND
+				shortcut = "alt+c" #was "c"
 				frame = 3
 			}		
 			instantTextBoxType = {
@@ -197,7 +197,7 @@ guiTypes = {
 				position = { x= 5 y = 7 }
 				quadTextureSprite = "GFX_unit_types_strip_nontransp"
 				scale= 0.7
-				shortcut = "z"
+				shortcut = "alt+z" #was "z"
 				frame = 4
 			}
 			instantTextBoxType = {
@@ -218,7 +218,7 @@ guiTypes = {
 				position = { x= 70 y = 7 }
 				quadTextureSprite = "GFX_unit_types_strip_nontransp"
 				scale= 0.7
-				shortcut = "x"
+				shortcut = "alt+x" #was "x"
 				frame = 5
 			}	
 			instantTextBoxType = {
@@ -239,7 +239,7 @@ guiTypes = {
 				position = { x= 135 y = 7 }
 				quadTextureSprite = "GFX_unit_types_strip_nontransp"
 				scale= 0.7
-				shortcut = "" #### REMOVECKEYBIND
+				shortcut = "alt+c" #was "c"
 				frame = 6
 			}		
 			instantTextBoxType = {
@@ -260,7 +260,7 @@ guiTypes = {
 				position = { x= 200 y = 7 }
 				quadTextureSprite = "GFX_unit_types_strip_nontransp"
 				scale= 0.7
-				shortcut = "v"
+				shortcut = "alt+v" #was "v"
 				frame = 7
 			}		
 			instantTextBoxType = {
@@ -581,6 +581,7 @@ guiTypes = {
 			tooltip = ""
 			tooltipText =""
 			delayedTooltipText = ""
+			shortcut = ","
 		}
 
 		iconType = {
