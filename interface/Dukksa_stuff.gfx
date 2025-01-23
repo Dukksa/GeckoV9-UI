@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_icon_splendor_button"
+		texturefile = "gfx/interface/ages/icon_splendor_button.dds"
+	}	
+	spriteType = {
+		name = "GFX_first_chairman_icon" 
+		texturefile = "gfx//interface//bertus//first_chairman_icon.dds"
+	}
+}
